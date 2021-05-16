@@ -1,0 +1,2 @@
+second file
+modifying for git add -u
