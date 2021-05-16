@@ -1,1 +1,2 @@
-firxt file
+firxt filie
+modifying for git ignore
